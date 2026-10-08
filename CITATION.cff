@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "Si utiliza este material, por favor cítelo como se indica a continuación."
+title: "El binomio de Newton: de los exponentes a la combinatoria"
+abstract: >-
+  Actividad web interactiva sobre el binomio de Newton. Permite desarrollar (a+b)^n
+  término a término con cualquier par de monomios, seguir el recorrido de los dos
+  exponentes —uno baja, el otro sube y su suma es siempre n—, explorar el triángulo
+  de Pascal con la regla C(n,k) = C(n-1,k-1) + C(n-1,k), calcular un término k-ésimo
+  sin desarrollar todo el binomio y, sobre todo, ver por qué los coeficientes son
+  números combinatorios: cada elección de a o de b en los n factores produce una
+  palabra, y el coeficiente cuenta cuántas palabras hay de cada tipo. Incluye
+  aplicaciones de conteo y probabilidad, el recorrido guiado del triángulo de
+  Sierpiński que forman los coeficientes impares, una pirámide de Sierpiński en
+  tres dimensiones que puede girarse y manipularse —con su puente hacia el
+  tetraedro de Pascal y el criterio de paridad de Kummer— y una serie de
+  práctica autoevaluable.
+  Material de apoyo para la unidad 2 de Tópicos de Matemáticas, Licenciatura en
+  Matemáticas, Universidad Autónoma de Nayarit.
+type: software
+authors:
+  - family-names: "Castillo Márquez"
+    given-names: "Dalia Imelda"
+    orcid: "https://orcid.org/0000-0002-5890-0437"
+    affiliation: "Universidad Autónoma de Nayarit, Unidad Académica de Ciencias Básicas e Ingenierías"
+    country: MX
+version: "1.0.0"
+date-released: "2026-10-07"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - binomio de Newton
+  - teorema del binomio
+  - triángulo de Pascal
+  - coeficientes binomiales
+  - combinatoria
+  - triángulo de Sierpiński
+  - pirámide de Sierpiński
+  - geometría fractal
+  - teorema de Kummer
+  - álgebra
+  - educación matemática
+  - recurso educativo abierto
+  - material didáctico interactivo
+url: "https://daliacastillo.github.io/binomio-de-newton/"
+repository-code: "https://github.com/daliacastillo/binomio-de-newton"
+# Si registra la obra en Zenodo para obtener un DOI, descomente y complete la línea:
+# doi: "10.5281/zenodo.XXXXXXX"
